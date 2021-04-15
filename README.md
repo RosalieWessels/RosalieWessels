@@ -1,4 +1,16 @@
-### Hi there 👋
+## Hi there, my name is Rosalie 👋
+
+#### 🌱 I’m currently learning/working on ...
+- SwiftUI & Swift
+- HTML, CSS, and Javascript
+- Python
+
+### 👀 I’m interested in ...
+- SwiftUI & Swift
+- HTML, CSS, and Javascript
+- Python
+- Machine Learning
+- 3d Printing
 
 <!--
 **RosalieWessels/RosalieWessels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
