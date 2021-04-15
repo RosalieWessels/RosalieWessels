@@ -1,6 +1,6 @@
 ## Hi there, my name is Rosalie 👋
 
-#### 🌱 I’m currently learning/working on ...
+### 🌱 I’m currently learning/working on ...
 - SwiftUI & Swift
 - HTML, CSS, and Javascript
 - Python
