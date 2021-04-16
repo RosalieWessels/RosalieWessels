@@ -12,6 +12,8 @@
 - Machine Learning
 - 3d Printing
 
+Member since 2016
+
 <!--
 **RosalieWessels/RosalieWessels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
