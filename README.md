@@ -14,7 +14,7 @@
 - Machine Learning
 - 3d Printing
 
-###📫 How to reach me: ...
+### 📫 How to reach me: ...
 - Personal website: [Rosacodes](https://www.rosacodes.com)
 - Tutoring website: [Bytecamps](https://www.bytecamps.com)
 - Email: dev@rosacodes.com
