@@ -6,6 +6,7 @@
 - SwiftUI & Swift
 - HTML, CSS, and Javascript
 - Python
+- Machine Learning (I am taking Harvard's CS50 AI this semester)
 
 ### 👀 I’m interested in ...
 - SwiftUI & Swift
