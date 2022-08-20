@@ -15,7 +15,7 @@
 - 3d Printing
 
 ### 📫 How to reach me: ...
-- Personal website: [Rosacodes](https://www.rosacodes.com)
+- Personal website: [Rosacodes](https://rosacodes.com)
 - Tutoring website: [Bytecamps](https://www.bytecamps.com)
 - Email: dev@rosacodes.com
 
