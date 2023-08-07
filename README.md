@@ -1,7 +1,5 @@
 ## Hi there, my name is Rosalie 👋
 
-[![Rosalie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman4587&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 🌱 I’m currently learning/working on ...
 - SwiftUI & Swift
 - HTML, CSS, and Javascript
