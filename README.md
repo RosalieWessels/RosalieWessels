@@ -5,12 +5,6 @@
 - HTML, CSS, and Javascript
 - Python
 - Machine Learning (I am taking Harvard's CS50 AI this semester)
-
-### 👀 I’m interested in ...
-- SwiftUI & Swift
-- HTML, CSS, and Javascript
-- Python
-- Machine Learning
 - 3d Printing
 
 #### Member since May 28th, 2016
