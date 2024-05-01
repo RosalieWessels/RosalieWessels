@@ -4,6 +4,7 @@
 - SwiftUI & Swift
 - HTML, CSS, and Javascript
 - Python
+- Flutter
 - Machine Learning (I am taking Harvard's CS50 AI this semester)
 - 3d Printing
 
