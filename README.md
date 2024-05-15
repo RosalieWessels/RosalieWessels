@@ -6,6 +6,7 @@
 - Python
 - Flutter
 - Machine Learning (I am taking Harvard's CS50 AI this semester)
+- Assembly
 - 3d Printing
 
 #### Member since May 28th, 2016
